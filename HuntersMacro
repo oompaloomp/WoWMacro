@@ -1,4 +1,10 @@
+## Пет ###
 /use [btn:1,nomod,@pet,exists]Лечение питомца
 /use [btn:1,mod:shift]Воскрешение питомца
 /use [btn:2,mod:alt]Прогнать питомца
 /use [btn:1,mod:alt]Приручение зверя
+----------------------------------------------
+## Аспекты ###
+/use [nomod,noexists]!Дух гепарда
+/use [mod:shift,noexists]!Дух стаи
+/use [nomod,noexists]!Метание ловушки
