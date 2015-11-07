@@ -1,4 +1,4 @@
-/use [btn:1,mod] ##982
-/use [btn:1,@pet,exists] ##136
-/use [btn:2,@pet,noexists]##883
-/use [btn:2,mod] ##2641
+/use [btn:1,nomod,@pet,exists]Лечение питомца
+/use [btn:1,mod:shift]Воскрешение питомца
+/use [btn:2,mod:alt]Прогнать питомца
+/use [btn:1,mod:alt]Приручение зверя
